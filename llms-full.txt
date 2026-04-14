@@ -6,14 +6,518 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## Deficiency Balance Laws by State -- State-Specific Rules [2026] -- Deficiencybalance
+## State Anti-Deficiency Laws - Where Lenders Cannot Pursue You - Deficiencybalance
+Source: https://deficiencybalance.com/anti-deficiency-laws.html
+
+State Anti-Deficiency Laws
+
+Where Lenders Cannot Pursue You
+
+Home » State Anti-Deficiency Laws
+
+What Are Anti-Deficiency Laws?
+
+Anti-deficiency laws prohibit or restrict a lender's ability to pursue a borrower for the difference between the debt owed and the foreclosure sale price. These protections vary dramatically by state.
+
+Full Anti-Deficiency States
+
+Several states prohibit deficiency judgments entirely for certain loan types: California (CCP 580b) bars deficiency on purchase money loans and after non-judicial foreclosure. Arizona (ARS 33-814) bars deficiency on residential property of 2.5 acres or less. Alaska, Minnesota, Montana, North Dakota, Oregon, and Washington have various protections.
+
+Partial Protection States
+
+Many states offer partial protections: requiring fair market value calculations, imposing short statutes of limitations on deficiency claims, or requiring separate lawsuits within specified timeframes after foreclosure.
+
+Frequently Asked Questions
+
+Does my state have anti-deficiency protection?
+
+It depends on your state and loan type. Purchase money mortgages have stronger protections than refinanced or HELOC debt in most states. The distinction between purchase money and non-purchase money debt is critical.
+
+Do anti-deficiency laws apply to auto loans?
+
+Generally no. Most anti-deficiency statutes are specific to real property. Auto loan deficiency claims are governed by the UCC, which allows deficiency claims as long as the sale was commercially reasonable.
+
+Can I waive anti-deficiency protection?
+
+In most states, no. Courts view these as public policy protections that cannot be waived in the loan agreement. Residential borrowers generally cannot waive these protections.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code) and the Fair Debt Collection Practices Act. This is educational content, not legal advice.
+
+Related Guides
+
+Reaffirmation Agreements Explained
+
+341 Meeting of Creditors Guide
+
+What to Expect at a 341 Meeting
+
+Credit Counseling for Bankruptcy
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on judgments and being sued for debt:
+
+Fair Debt Collection Practices Act
+Cornell LII - FDCPA
+
+CFPB: Sued by Collector
+Consumer guide
+
+CFPB Complaint Tool
+File complaints
+
+FTC: Debt Collection FAQs
+FTC guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+National Consumer Law Center
+NCLC resources
+
+Default Judgment Research
+Google Scholar
+
+Related Guides
+
+Reaffirmation Agreements
+
+Should you reaffirm a debt? Risks explained
+
+reaffirmationagreement.org →
+
+Buy a Car After Bankruptcy
+
+How to finance a car after bankruptcy
+
+buyacarafterbankruptcy.com →
+
+Keep Your Car in Bankruptcy
+
+Options to protect your vehicle in Chapter 7
+
+keepmycarinbankruptcy.com →
+
+What Is Chapter 7 Bankruptcy?
+
+Everything you need to know about Chapter 7
+
+whatischapter7.com →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener Open Bankruptcy Project Ch.7 vs Ch.13 Automatic Stay Bankruptcy Cost Means Test Deficiency Balance Brunner Test Debt Buyer Rights Vacate Judgment
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms
+♥ Sponsor
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## Auto Repossession Deficiency - What You Owe After Repo - Deficiencybalance
+Source: https://deficiencybalance.com/auto-repo-deficiency.html
+
+Auto Repossession Deficiency
+
+What You Owe After Repo
+
+Home » Auto Repossession Deficiency
+
+How Auto Repo Deficiency Works
+
+When your car is repossessed, the lender sells it - usually at auction. If the sale price is less than what you owe (plus repo fees, storage, and auction costs), the remaining amount is the deficiency balance. For example: you owe $15,000, the car sells for $8,000, and the lender adds $2,000 in fees. Your deficiency balance is $9,000.
+
+The Commercially Reasonable Sale Requirement
+
+Under the UCC (Uniform Commercial Code), the lender must sell the vehicle in a commercially reasonable manner. They cannot dump it at a below-market auction or fail to advertise. If the sale was not commercially reasonable, you can challenge the deficiency amount or eliminate it entirely.
+
+Your Right to Notice
+
+The lender must send you written notice before selling the vehicle. If the lender failed to provide proper notice, many states allow you to offset the deficiency or eliminate it entirely. Check your state's UCC adoption for specific requirements.
+
+Frequently Asked Questions
+
+Can the lender come after me after repossession?
+
+Yes, in most states. After selling the vehicle, the lender can file a lawsuit for the deficiency. They must first obtain a court judgment, then they can garnish wages and levy bank accounts.
+
+How long after repo can they sue for the deficiency?
+
+The statute of limitations varies by state, typically 3-6 years from the date of default or sale. Do not make any payments on an old deficiency, as this may restart the clock.
+
+Can bankruptcy eliminate an auto repo deficiency?
+
+Yes. An auto repo deficiency is unsecured debt and is fully dischargeable in both Chapter 7 and Chapter 13 bankruptcy.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code) and the Fair Debt Collection Practices Act. This is educational content, not legal advice.
+
+Related Guides
+
+Reaffirmation Agreements Explained
+
+341 Meeting of Creditors Guide
+
+What to Expect at a 341 Meeting
+
+Credit Counseling for Bankruptcy
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on judgments and being sued for debt:
+
+Fair Debt Collection Practices Act
+Cornell LII - FDCPA
+
+CFPB: Sued by Collector
+Consumer guide
+
+CFPB Complaint Tool
+File complaints
+
+FTC: Debt Collection FAQs
+FTC guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+National Consumer Law Center
+NCLC resources
+
+Default Judgment Research
+Google Scholar
+
+Related Guides
+
+Reaffirmation Agreements
+
+Should you reaffirm a debt? Risks explained
+
+reaffirmationagreement.org →
+
+Buy a Car After Bankruptcy
+
+How to finance a car after bankruptcy
+
+buyacarafterbankruptcy.com →
+
+Keep Your Car in Bankruptcy
+
+Options to protect your vehicle in Chapter 7
+
+keepmycarinbankruptcy.com →
+
+What Is Chapter 7 Bankruptcy?
+
+Everything you need to know about Chapter 7
+
+whatischapter7.com →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener Open Bankruptcy Project Ch.7 vs Ch.13 Automatic Stay Bankruptcy Cost Means Test Deficiency Balance Brunner Test Debt Buyer Rights Vacate Judgment
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms
+♥ Sponsor
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## Bankruptcy and Deficiency Balances - Complete Elimination - Deficiencybalance
+Source: https://deficiencybalance.com/bankruptcy-and-deficiency.html
+
+Bankruptcy and Deficiency Balances
+
+Complete Elimination
+
+Home » Bankruptcy and Deficiency Balances
+
+Deficiency as Unsecured Debt
+
+Once collateral has been sold, the deficiency is unsecured debt - no collateral backs it. In bankruptcy, unsecured debts are the most dischargeable category. Your deficiency is treated the same as credit card debt and medical bills.
+
+Chapter 7 and Deficiency
+
+In Chapter 7, deficiency balances are discharged completely. You pay nothing. The process takes about 4 months. The automatic stay stops any pending lawsuit immediately.
+
+Chapter 13 and Deficiency
+
+In Chapter 13, the deficiency is included as a general unsecured claim. You may pay 0-100% over 3-5 years based on your income. Any unpaid portion is discharged at plan completion.
+
+Frequently Asked Questions
+
+Can I file bankruptcy just for a deficiency?
+
+Yes. There is no minimum debt requirement. If a deficiency balance is causing financial hardship, bankruptcy is a legitimate tool.
+
+Will bankruptcy stop a deficiency lawsuit?
+
+Yes. The automatic stay takes effect instantly. The lawsuit is stayed and ultimately dismissed after discharge.
+
+What about 1099-C tax consequences?
+
+Debts discharged in bankruptcy are excluded from income under IRC 108(a)(1)(A). You do not owe taxes on discharged deficiency debt. File IRS Form 982.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code) and the Fair Debt Collection Practices Act. This is educational content, not legal advice.
+
+Related Guides
+
+Reaffirmation Agreements Explained
+
+341 Meeting of Creditors Guide
+
+What to Expect at a 341 Meeting
+
+Credit Counseling for Bankruptcy
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on judgments and being sued for debt:
+
+Fair Debt Collection Practices Act
+Cornell LII - FDCPA
+
+CFPB: Sued by Collector
+Consumer guide
+
+CFPB Complaint Tool
+File complaints
+
+FTC: Debt Collection FAQs
+FTC guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+National Consumer Law Center
+NCLC resources
+
+Default Judgment Research
+Google Scholar
+
+Related Guides
+
+Reaffirmation Agreements
+
+Should you reaffirm a debt? Risks explained
+
+reaffirmationagreement.org →
+
+Buy a Car After Bankruptcy
+
+How to finance a car after bankruptcy
+
+buyacarafterbankruptcy.com →
+
+Keep Your Car in Bankruptcy
+
+Options to protect your vehicle in Chapter 7
+
+keepmycarinbankruptcy.com →
+
+What Is Chapter 7 Bankruptcy?
+
+Everything you need to know about Chapter 7
+
+whatischapter7.com →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener Open Bankruptcy Project Ch.7 vs Ch.13 Automatic Stay Bankruptcy Cost Means Test Deficiency Balance Brunner Test Debt Buyer Rights Vacate Judgment
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms
+♥ Sponsor
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## Deficiency Balance Credit Impact - How It Affects Your Score - Deficiencybalance
+Source: https://deficiencybalance.com/credit-impact-deficiency.html
+
+Deficiency Balance Credit Impact
+
+How It Affects Your Score
+
+Home » Deficiency Balance Credit Impact
+
+Credit Report Impact
+
+A deficiency damages credit multiple ways: the underlying default (repo/foreclosure), a collection account if sold, and potentially a judgment. The combined effect can reduce your score by 100-200 points.
+
+How Long It Stays
+
+Negative marks remain for 7 years from the date of first delinquency on the original account. Collectors who re-age the account are violating the FCRA.
+
+Rebuilding
+
+Start immediately: get a secured credit card, check reports at annualcreditreport.com, dispute inaccuracies. After 2-3 years of positive history, you can often qualify for conventional financing. Visit rebuildcreditafterbankruptcy.com for guidance.
+
+Frequently Asked Questions
+
+Will paying the deficiency improve my score?
+
+Paying changes the status but the underlying negative mark remains for 7 years. The biggest improvement comes from time plus building new positive history.
+
+Can I dispute the deficiency on my credit report?
+
+Yes. If the amount is wrong, past the 7-year period, or the collector cannot verify, you can dispute with the credit bureaus. They have 30 days to investigate.
+
+Is bankruptcy better or worse for my credit?
+
+Bankruptcy stays 7-10 years but eliminates the debt entirely. Many people recover faster after bankruptcy because they have zero debt and can rebuild immediately.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code) and the Fair Debt Collection Practices Act. This is educational content, not legal advice.
+
+Related Guides
+
+Reaffirmation Agreements Explained
+
+341 Meeting of Creditors Guide
+
+What to Expect at a 341 Meeting
+
+Credit Counseling for Bankruptcy
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on judgments and being sued for debt:
+
+Fair Debt Collection Practices Act
+Cornell LII - FDCPA
+
+CFPB: Sued by Collector
+Consumer guide
+
+CFPB Complaint Tool
+File complaints
+
+FTC: Debt Collection FAQs
+FTC guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+National Consumer Law Center
+NCLC resources
+
+Default Judgment Research
+Google Scholar
+
+Related Guides
+
+Reaffirmation Agreements
+
+Should you reaffirm a debt? Risks explained
+
+reaffirmationagreement.org →
+
+Buy a Car After Bankruptcy
+
+How to finance a car after bankruptcy
+
+buyacarafterbankruptcy.com →
+
+Keep Your Car in Bankruptcy
+
+Options to protect your vehicle in Chapter 7
+
+keepmycarinbankruptcy.com →
+
+What Is Chapter 7 Bankruptcy?
+
+Everything you need to know about Chapter 7
+
+whatischapter7.com →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener Open Bankruptcy Project Ch.7 vs Ch.13 Automatic Stay Bankruptcy Cost Means Test Deficiency Balance Brunner Test Debt Buyer Rights Vacate Judgment
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms
+♥ Sponsor
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## Deficiency Balance Laws by State - State-Specific Rules [2026] - Deficiencybalance
 Source: https://deficiencybalance.com/deficiency-balance-laws-by-state.html
 
 ← deficiencybalance.com Home
 
 Deficiency Balance Laws by State
 
-Which states allow deficiency judgments after repossession or foreclosure -- and which do not
+Which states allow deficiency judgments after repossession or foreclosure - and which do not
 
 What Is a Deficiency Balance?
 
@@ -87,517 +591,17 @@ Deficiency Balance Home
 Automatic Stay Guide
 Right to Cure Guide
 
-Part of the Open Bankruptcy Project -- free, open-source bankruptcy information.
+Related Resources
+
+1328(f) Discharge Screener
+
+Part of the Open Bankruptcy Project - free, open-source bankruptcy information.
 
 This is educational information, not legal advice.
 
 ---
 
-## State Anti-Deficiency Laws -- Where Lenders Cannot Pursue You -- Deficiencybalance
-Source: https://deficiencybalance.com/anti-deficiency-laws.html
-
-State Anti-Deficiency Laws
-
-Where Lenders Cannot Pursue You
-
-Home » State Anti-Deficiency Laws
-
-What Are Anti-Deficiency Laws?
-
-Anti-deficiency laws prohibit or restrict a lender's ability to pursue a borrower for the difference between the debt owed and the foreclosure sale price. These protections vary dramatically by state.
-
-Full Anti-Deficiency States
-
-Several states prohibit deficiency judgments entirely for certain loan types: California (CCP 580b) bars deficiency on purchase money loans and after non-judicial foreclosure. Arizona (ARS 33-814) bars deficiency on residential property of 2.5 acres or less. Alaska, Minnesota, Montana, North Dakota, Oregon, and Washington have various protections.
-
-Partial Protection States
-
-Many states offer partial protections: requiring fair market value calculations, imposing short statutes of limitations on deficiency claims, or requiring separate lawsuits within specified timeframes after foreclosure.
-
-Frequently Asked Questions
-
-Does my state have anti-deficiency protection?
-
-It depends on your state and loan type. Purchase money mortgages have stronger protections than refinanced or HELOC debt in most states. The distinction between purchase money and non-purchase money debt is critical.
-
-Do anti-deficiency laws apply to auto loans?
-
-Generally no. Most anti-deficiency statutes are specific to real property. Auto loan deficiency claims are governed by the UCC, which allows deficiency claims as long as the sale was commercially reasonable.
-
-Can I waive anti-deficiency protection?
-
-In most states, no. Courts view these as public policy protections that cannot be waived in the loan agreement. Residential borrowers generally cannot waive these protections.
-
-Check your bankruptcy discharge eligibility with our free screening tool.
-Free Discharge Screener
-
-About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code) and the Fair Debt Collection Practices Act. This is educational content, not legal advice.
-
-Related Guides
-
-Reaffirmation Agreements Explained
-
-341 Meeting of Creditors Guide
-
-What to Expect at a 341 Meeting
-
-Credit Counseling for Bankruptcy
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-♥ Sponsor
-
-Further Reading & Resources
-
-Authority sources for deeper research on judgments and being sued for debt:
-
-Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
-
-CFPB: Sued by Collector
-Consumer guide
-
-CFPB Complaint Tool
-File complaints
-
-FTC: Debt Collection FAQs
-FTC guide
-
-Find Free Legal Aid
-LSC legal aid finder
-
-National Consumer Law Center
-NCLC resources
-
-Default Judgment Research
-Google Scholar
-
-Related Guides
-
-Reaffirmation Agreements
-
-Should you reaffirm a debt? Risks explained
-
-reaffirmationagreement.org →
-
-Buy a Car After Bankruptcy
-
-How to finance a car after bankruptcy
-
-buyacarafterbankruptcy.com →
-
-Keep Your Car in Bankruptcy
-
-Options to protect your vehicle in Chapter 7
-
-keepmycarinbankruptcy.com →
-
-What Is Chapter 7 Bankruptcy?
-
-Everything you need to know about Chapter 7
-
-whatischapter7.com →
-
-You May Also Find Helpful
-
-Bankruptcy Means Test by State -- bankruptcymeanstest.org
-
-Student Loans in Bankruptcy -- bankruptcystudentloans.org
-
-Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
-
-Part of the Bankruptcy Transparency Network
-
-Discharge Screener Open Bankruptcy Project Ch.7 vs Ch.13 Automatic Stay Bankruptcy Cost Means Test Deficiency Balance Brunner Test Debt Buyer Rights Vacate Judgment
-
-Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
-
-Privacy | Terms
-♥ Sponsor
-
-Our research was cited by the federal judiciary as Suggestion 26-BK-3
-
----
-
-## Auto Repossession Deficiency -- What You Owe After Repo -- Deficiencybalance
-Source: https://deficiencybalance.com/auto-repo-deficiency.html
-
-Auto Repossession Deficiency
-
-What You Owe After Repo
-
-Home » Auto Repossession Deficiency
-
-How Auto Repo Deficiency Works
-
-When your car is repossessed, the lender sells it -- usually at auction. If the sale price is less than what you owe (plus repo fees, storage, and auction costs), the remaining amount is the deficiency balance. For example: you owe $15,000, the car sells for $8,000, and the lender adds $2,000 in fees. Your deficiency balance is $9,000.
-
-The Commercially Reasonable Sale Requirement
-
-Under the UCC (Uniform Commercial Code), the lender must sell the vehicle in a commercially reasonable manner. They cannot dump it at a below-market auction or fail to advertise. If the sale was not commercially reasonable, you can challenge the deficiency amount or eliminate it entirely.
-
-Your Right to Notice
-
-The lender must send you written notice before selling the vehicle. If the lender failed to provide proper notice, many states allow you to offset the deficiency or eliminate it entirely. Check your state's UCC adoption for specific requirements.
-
-Frequently Asked Questions
-
-Can the lender come after me after repossession?
-
-Yes, in most states. After selling the vehicle, the lender can file a lawsuit for the deficiency. They must first obtain a court judgment, then they can garnish wages and levy bank accounts.
-
-How long after repo can they sue for the deficiency?
-
-The statute of limitations varies by state, typically 3-6 years from the date of default or sale. Do not make any payments on an old deficiency, as this may restart the clock.
-
-Can bankruptcy eliminate an auto repo deficiency?
-
-Yes. An auto repo deficiency is unsecured debt and is fully dischargeable in both Chapter 7 and Chapter 13 bankruptcy.
-
-Check your bankruptcy discharge eligibility with our free screening tool.
-Free Discharge Screener
-
-About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code) and the Fair Debt Collection Practices Act. This is educational content, not legal advice.
-
-Related Guides
-
-Reaffirmation Agreements Explained
-
-341 Meeting of Creditors Guide
-
-What to Expect at a 341 Meeting
-
-Credit Counseling for Bankruptcy
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-♥ Sponsor
-
-Further Reading & Resources
-
-Authority sources for deeper research on judgments and being sued for debt:
-
-Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
-
-CFPB: Sued by Collector
-Consumer guide
-
-CFPB Complaint Tool
-File complaints
-
-FTC: Debt Collection FAQs
-FTC guide
-
-Find Free Legal Aid
-LSC legal aid finder
-
-National Consumer Law Center
-NCLC resources
-
-Default Judgment Research
-Google Scholar
-
-Related Guides
-
-Reaffirmation Agreements
-
-Should you reaffirm a debt? Risks explained
-
-reaffirmationagreement.org →
-
-Buy a Car After Bankruptcy
-
-How to finance a car after bankruptcy
-
-buyacarafterbankruptcy.com →
-
-Keep Your Car in Bankruptcy
-
-Options to protect your vehicle in Chapter 7
-
-keepmycarinbankruptcy.com →
-
-What Is Chapter 7 Bankruptcy?
-
-Everything you need to know about Chapter 7
-
-whatischapter7.com →
-
-You May Also Find Helpful
-
-Bankruptcy Means Test by State -- bankruptcymeanstest.org
-
-Student Loans in Bankruptcy -- bankruptcystudentloans.org
-
-Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
-
-Part of the Bankruptcy Transparency Network
-
-Discharge Screener Open Bankruptcy Project Ch.7 vs Ch.13 Automatic Stay Bankruptcy Cost Means Test Deficiency Balance Brunner Test Debt Buyer Rights Vacate Judgment
-
-Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
-
-Privacy | Terms
-♥ Sponsor
-
-Our research was cited by the federal judiciary as Suggestion 26-BK-3
-
----
-
-## Bankruptcy and Deficiency Balances -- Complete Elimination -- Deficiencybalance
-Source: https://deficiencybalance.com/bankruptcy-and-deficiency.html
-
-Bankruptcy and Deficiency Balances
-
-Complete Elimination
-
-Home » Bankruptcy and Deficiency Balances
-
-Deficiency as Unsecured Debt
-
-Once collateral has been sold, the deficiency is unsecured debt -- no collateral backs it. In bankruptcy, unsecured debts are the most dischargeable category. Your deficiency is treated the same as credit card debt and medical bills.
-
-Chapter 7 and Deficiency
-
-In Chapter 7, deficiency balances are discharged completely. You pay nothing. The process takes about 4 months. The automatic stay stops any pending lawsuit immediately.
-
-Chapter 13 and Deficiency
-
-In Chapter 13, the deficiency is included as a general unsecured claim. You may pay 0-100% over 3-5 years based on your income. Any unpaid portion is discharged at plan completion.
-
-Frequently Asked Questions
-
-Can I file bankruptcy just for a deficiency?
-
-Yes. There is no minimum debt requirement. If a deficiency balance is causing financial hardship, bankruptcy is a legitimate tool.
-
-Will bankruptcy stop a deficiency lawsuit?
-
-Yes. The automatic stay takes effect instantly. The lawsuit is stayed and ultimately dismissed after discharge.
-
-What about 1099-C tax consequences?
-
-Debts discharged in bankruptcy are excluded from income under IRC 108(a)(1)(A). You do not owe taxes on discharged deficiency debt. File IRS Form 982.
-
-Check your bankruptcy discharge eligibility with our free screening tool.
-Free Discharge Screener
-
-About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code) and the Fair Debt Collection Practices Act. This is educational content, not legal advice.
-
-Related Guides
-
-Reaffirmation Agreements Explained
-
-341 Meeting of Creditors Guide
-
-What to Expect at a 341 Meeting
-
-Credit Counseling for Bankruptcy
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-♥ Sponsor
-
-Further Reading & Resources
-
-Authority sources for deeper research on judgments and being sued for debt:
-
-Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
-
-CFPB: Sued by Collector
-Consumer guide
-
-CFPB Complaint Tool
-File complaints
-
-FTC: Debt Collection FAQs
-FTC guide
-
-Find Free Legal Aid
-LSC legal aid finder
-
-National Consumer Law Center
-NCLC resources
-
-Default Judgment Research
-Google Scholar
-
-Related Guides
-
-Reaffirmation Agreements
-
-Should you reaffirm a debt? Risks explained
-
-reaffirmationagreement.org →
-
-Buy a Car After Bankruptcy
-
-How to finance a car after bankruptcy
-
-buyacarafterbankruptcy.com →
-
-Keep Your Car in Bankruptcy
-
-Options to protect your vehicle in Chapter 7
-
-keepmycarinbankruptcy.com →
-
-What Is Chapter 7 Bankruptcy?
-
-Everything you need to know about Chapter 7
-
-whatischapter7.com →
-
-You May Also Find Helpful
-
-Bankruptcy Means Test by State -- bankruptcymeanstest.org
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Student Loans in Bankruptcy -- bankruptcystudentloans.org
-
-Part of the Bankruptcy Transparency Network
-
-Discharge Screener Open Bankruptcy Project Ch.7 vs Ch.13 Automatic Stay Bankruptcy Cost Means Test Deficiency Balance Brunner Test Debt Buyer Rights Vacate Judgment
-
-Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
-
-Privacy | Terms
-♥ Sponsor
-
-Our research was cited by the federal judiciary as Suggestion 26-BK-3
-
----
-
-## Deficiency Balance Credit Impact -- How It Affects Your Score -- Deficiencybalance
-Source: https://deficiencybalance.com/credit-impact-deficiency.html
-
-Deficiency Balance Credit Impact
-
-How It Affects Your Score
-
-Home » Deficiency Balance Credit Impact
-
-Credit Report Impact
-
-A deficiency damages credit multiple ways: the underlying default (repo/foreclosure), a collection account if sold, and potentially a judgment. The combined effect can reduce your score by 100-200 points.
-
-How Long It Stays
-
-Negative marks remain for 7 years from the date of first delinquency on the original account. Collectors who re-age the account are violating the FCRA.
-
-Rebuilding
-
-Start immediately: get a secured credit card, check reports at annualcreditreport.com, dispute inaccuracies. After 2-3 years of positive history, you can often qualify for conventional financing. Visit rebuildcreditafterbankruptcy.com for guidance.
-
-Frequently Asked Questions
-
-Will paying the deficiency improve my score?
-
-Paying changes the status but the underlying negative mark remains for 7 years. The biggest improvement comes from time plus building new positive history.
-
-Can I dispute the deficiency on my credit report?
-
-Yes. If the amount is wrong, past the 7-year period, or the collector cannot verify, you can dispute with the credit bureaus. They have 30 days to investigate.
-
-Is bankruptcy better or worse for my credit?
-
-Bankruptcy stays 7-10 years but eliminates the debt entirely. Many people recover faster after bankruptcy because they have zero debt and can rebuild immediately.
-
-Check your bankruptcy discharge eligibility with our free screening tool.
-Free Discharge Screener
-
-About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code) and the Fair Debt Collection Practices Act. This is educational content, not legal advice.
-
-Related Guides
-
-Reaffirmation Agreements Explained
-
-341 Meeting of Creditors Guide
-
-What to Expect at a 341 Meeting
-
-Credit Counseling for Bankruptcy
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-♥ Sponsor
-
-Further Reading & Resources
-
-Authority sources for deeper research on judgments and being sued for debt:
-
-Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
-
-CFPB: Sued by Collector
-Consumer guide
-
-CFPB Complaint Tool
-File complaints
-
-FTC: Debt Collection FAQs
-FTC guide
-
-Find Free Legal Aid
-LSC legal aid finder
-
-National Consumer Law Center
-NCLC resources
-
-Default Judgment Research
-Google Scholar
-
-Related Guides
-
-Reaffirmation Agreements
-
-Should you reaffirm a debt? Risks explained
-
-reaffirmationagreement.org →
-
-Buy a Car After Bankruptcy
-
-How to finance a car after bankruptcy
-
-buyacarafterbankruptcy.com →
-
-Keep Your Car in Bankruptcy
-
-Options to protect your vehicle in Chapter 7
-
-keepmycarinbankruptcy.com →
-
-What Is Chapter 7 Bankruptcy?
-
-Everything you need to know about Chapter 7
-
-whatischapter7.com →
-
-You May Also Find Helpful
-
-Bankruptcy Means Test by State -- bankruptcymeanstest.org
-
-Student Loans in Bankruptcy -- bankruptcystudentloans.org
-
-Open Bankruptcy Project -- openbankruptcyproject.org
-
-Part of the Bankruptcy Transparency Network
-
-Discharge Screener Open Bankruptcy Project Ch.7 vs Ch.13 Automatic Stay Bankruptcy Cost Means Test Deficiency Balance Brunner Test Debt Buyer Rights Vacate Judgment
-
-Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
-
-Privacy | Terms
-♥ Sponsor
-
-Our research was cited by the federal judiciary as Suggestion 26-BK-3
-
----
-
-## Deficiency Judgment -- From Lawsuit to Wage Garnishment -- Deficiencybalance
+## Deficiency Judgment - From Lawsuit to Wage Garnishment - Deficiencybalance
 Source: https://deficiencybalance.com/deficiency-judgment.html
 
 Deficiency Judgment
@@ -647,6 +651,10 @@ What to Expect at a 341 Meeting
 
 Credit Counseling for Bankruptcy
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 ♥ Sponsor
@@ -656,7 +664,7 @@ Further Reading & Resources
 Authority sources for deeper research on judgments and being sued for debt:
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Sued by Collector
 Consumer guide
@@ -723,7 +731,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Foreclosure Deficiency Balance -- Can They Come After You? -- Deficiencybalance
+## Foreclosure Deficiency Balance - Can They Come After You? - Deficiencybalance
 Source: https://deficiencybalance.com/foreclosure-deficiency.html
 
 Foreclosure Deficiency Balance
@@ -782,7 +790,7 @@ Further Reading & Resources
 Authority sources for deeper research on judgments and being sued for debt:
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Sued by Collector
 Consumer guide
@@ -849,8 +857,10 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Deficiency Balance After Repo or Foreclosure [2026] -- Deficiencybalance
+## Deficiency Balance After Repo or Foreclosure [2026] - Deficiencybalance
 Source: https://deficiencybalance.com/
+
+Skip to main content
 
 🌐 Esta pagina esta disponible en Espanol
 
@@ -862,19 +872,19 @@ What You Owe After Repossession or Foreclosure
 
 What Is a Deficiency Balance?
 
-A deficiency balance is the difference between what you owed on a loan and what the lender recovered by selling the collateral. If you owed $25,000 on your car and the lender repossessed it and sold it at auction for $12,000, the deficiency balance is $13,000 -- plus fees, interest, and costs that the lender will add.
+A deficiency balance is the difference between what you owed on a loan and what the lender recovered by selling the collateral. If you owed $25,000 on your car and the lender repossessed it and sold it at auction for $12,000, the deficiency balance is $13,000 - plus fees, interest, and costs that the lender will add.
 
 Deficiency balances arise from: vehicle repossession, home foreclosure, short sales, and any other situation where secured collateral is sold for less than the loan balance.
 
 Deficiency After Vehicle Repossession
 
-After repossessing your vehicle, the lender must sell it in a "commercially reasonable" manner -- typically at auction. Auto auctions are wholesale markets where vehicles sell for 30-50% of retail value. This means even a car worth $20,000 at a dealership might sell for $10,000 at auction, leaving you with a massive deficiency.
+After repossessing your vehicle, the lender must sell it in a "commercially reasonable" manner - typically at auction. Auto auctions are wholesale markets where vehicles sell for 30-50% of retail value. This means even a car worth $20,000 at a dealership might sell for $10,000 at auction, leaving you with a massive deficiency.
 
 Your rights: the lender must give you advance notice of the sale (usually 10 days), the sale must be commercially reasonable, and you have the right to redeem the vehicle by paying the full balance before the sale. After the sale, the lender must send you an accounting showing the sale price, fees deducted, and remaining deficiency.
 
 Challenging a Deficiency Balance
 
-Commercially unreasonable sale: If the lender sold the collateral for far less than it should have, you can challenge the deficiency. Failure to give proper notice: If you did not receive the required notice before the sale, the deficiency may be unenforceable. Accounting errors: Request a full accounting -- unauthorized fees, incorrect interest calculations, and double-charged items are common. UCC violations: The Uniform Commercial Code governs secured transactions, and violations can reduce or eliminate the deficiency.
+Commercially unreasonable sale: If the lender sold the collateral for far less than it should have, you can challenge the deficiency. Failure to give proper notice: If you did not receive the required notice before the sale, the deficiency may be unenforceable. Accounting errors: Request a full accounting - unauthorized fees, incorrect interest calculations, and double-charged items are common. UCC violations: The Uniform Commercial Code governs secured transactions, and violations can reduce or eliminate the deficiency.
 
 In some states, if the lender violates the UCC, they lose the right to a deficiency judgment entirely. Check your state's version of UCC Article 9.
 
@@ -896,29 +906,29 @@ If you still have the vehicle and are behind on payments, Chapter 13 may allow y
 
 How to Respond When Contacted
 
-1. Request a complete accounting -- every fee, payment, sale detail. 2. Verify the sale was commercially reasonable -- compare the sale price to Kelley Blue Book wholesale or fair market value for real estate. 3. Check the timeline -- did the lender file within the deadline? 4. Negotiate -- deficiency debt is often settled for 20-40% because the creditor knows collection is uncertain. 5. If the amount is significant, consult a bankruptcy attorney -- bankruptcy may be more cost-effective than settlement.
+1. Request a complete accounting - every fee, payment, sale detail. 2. Verify the sale was commercially reasonable - compare the sale price to Kelley Blue Book wholesale or fair market value for real estate. 3. Check the timeline - did the lender file within the deadline? 4. Negotiate - deficiency debt is often settled for 20-40% because the creditor knows collection is uncertain. 5. If the amount is significant, consult a bankruptcy attorney - bankruptcy may be more cost-effective than settlement.
 
 Do not ignore deficiency collection. If the creditor obtains a judgment, they can garnish your wages and levy your bank account.
 
 Explore All Topics
 
-Auto Repossession Deficiency -- What You Owe After Repo
+Auto Repossession Deficiency - What You Owe After Repo
 
-Foreclosure Deficiency Balance -- Can They Come After You?
+Foreclosure Deficiency Balance - Can They Come After You?
 
-State Anti-Deficiency Laws -- Where Lenders Cannot Pursue You
+State Anti-Deficiency Laws - Where Lenders Cannot Pursue You
 
-Negotiating a Deficiency Balance -- Settlement Strategies
+Negotiating a Deficiency Balance - Settlement Strategies
 
-Bankruptcy and Deficiency Balances -- Complete Elimination
+Bankruptcy and Deficiency Balances - Complete Elimination
 
-Statute of Limitations on Deficiency Balances -- How Long Creditors Have to Sue
+Statute of Limitations on Deficiency Balances - How Long Creditors Have to Sue
 
-Deficiency Balance Credit Impact -- How It Affects Your Score
+Deficiency Balance Credit Impact - How It Affects Your Score
 
-Deficiency Judgment -- From Lawsuit to Wage Garnishment
+Deficiency Judgment - From Lawsuit to Wage Garnishment
 
-Right to Cure Before Deficiency -- Preventing the Balance
+Right to Cure Before Deficiency - Preventing the Balance
 
 Frequently Asked Questions
 
@@ -968,7 +978,7 @@ Further Reading & Resources
 Authority sources for deeper research on judgments and being sued for debt:
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Sued by Collector
 Consumer guide
@@ -1016,7 +1026,7 @@ whatischapter7.com →
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Chapter 7 vs Chapter 13
 
@@ -1151,6 +1161,7 @@ Means Test
 File Without a Lawyer
 Rebuild Credit
 deficiencybalance.com
+Rule 9037 PII Scanner
 
 Free bankruptcy education for the public interest. Not legal advice.
 If you need legal help, contact a licensed attorney in your state.
@@ -1164,9 +1175,11 @@ Terms
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
+Cited by the Federal Rules Committee (26-BK-3)
+
 ---
 
-## Negotiating a Deficiency Balance -- Settlement Strategies -- Deficiencybalance
+## Negotiating a Deficiency Balance - Settlement Strategies - Deficiencybalance
 Source: https://deficiencybalance.com/negotiating-deficiency.html
 
 Negotiating a Deficiency Balance
@@ -1191,7 +1204,7 @@ Frequently Asked Questions
 
 Should I offer a lump sum or a payment plan?
 
-Lump sums get the biggest discounts -- typically 20-40%. Payment plans get smaller discounts (50-70%) due to collection risk over time.
+Lump sums get the biggest discounts - typically 20-40%. Payment plans get smaller discounts (50-70%) due to collection risk over time.
 
 Will settling affect my taxes?
 
@@ -1225,7 +1238,7 @@ Further Reading & Resources
 Authority sources for deeper research on judgments and being sued for debt:
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Sued by Collector
 Consumer guide
@@ -1292,7 +1305,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Right to Cure Before Deficiency -- Preventing the Balance -- Deficiencybalance
+## Right to Cure Before Deficiency - Preventing the Balance - Deficiencybalance
 Source: https://deficiencybalance.com/right-to-cure-deficiency.html
 
 Right to Cure Before Deficiency
@@ -1307,7 +1320,7 @@ The right to cure is your legal right to bring your loan current before the lend
 
 Auto Loan Right to Cure
 
-Most states require pre-repossession notice giving you 10-30 days to cure. The cure amount is past-due payments plus late fees -- not the full balance. After repossession, many states give a right to redeem (pay the full balance).
+Most states require pre-repossession notice giving you 10-30 days to cure. The cure amount is past-due payments plus late fees - not the full balance. After repossession, many states give a right to redeem (pay the full balance).
 
 Mortgage Right to Cure
 
@@ -1321,7 +1334,7 @@ The cure amount is total past-due payments, late fees, and collection costs. It 
 
 Can I cure after repossession?
 
-In many states, yes, but the window is short. Some states allow reinstatement after repo. Acting quickly is critical -- once the car is sold, the right is gone.
+In many states, yes, but the window is short. Some states allow reinstatement after repo. Acting quickly is critical - once the car is sold, the right is gone.
 
 What if I can't afford to cure?
 
@@ -1351,7 +1364,7 @@ Further Reading & Resources
 Authority sources for deeper research on judgments and being sued for debt:
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Sued by Collector
 Consumer guide
@@ -1418,7 +1431,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Statute of Limitations on Deficiency Balances -- How Long Creditors Have to Sue -- Deficiencybalance
+## Statute of Limitations on Deficiency Balances - How Long Creditors Have to Sue - Deficiencybalance
 Source: https://deficiencybalance.com/statute-of-limitations-deficiency.html
 
 Statute of Limitations on Deficiency Balances
@@ -1433,7 +1446,7 @@ The statute of limitations varies by state: written contracts 3-10 years, oral c
 
 What Resets the Clock
 
-Making a payment -- even a small one -- can restart the statute of limitations in most states. Written acknowledgment of the debt may also restart the clock. Never make a payment on an old deficiency without understanding the consequences.
+Making a payment - even a small one - can restart the statute of limitations in most states. Written acknowledgment of the debt may also restart the clock. Never make a payment on an old deficiency without understanding the consequences.
 
 Time-Barred Debt
 
@@ -1447,7 +1460,7 @@ No. Judgments have their own lifespan (typically 10-20 years, renewable). If you
 
 What state's SOL applies?
 
-Generally the state where the creditor would file suit -- usually where you reside or where the contract was signed.
+Generally the state where the creditor would file suit - usually where you reside or where the contract was signed.
 
 Can a collector sue me for a time-barred deficiency?
 
@@ -1477,7 +1490,7 @@ Further Reading & Resources
 Authority sources for deeper research on judgments and being sued for debt:
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Sued by Collector
 Consumer guide
@@ -1541,3 +1554,75 @@ Privacy | Terms
 ♥ Sponsor
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## Privacy Policy - deficiencybalance.com
+Source: https://deficiencybalance.com/privacy.html
+
+deficiencybalance.com
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.

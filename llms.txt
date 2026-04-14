@@ -1,21 +1,22 @@
-# Deficiency Balance After Repo or Foreclosure [2026] -- Deficiencybalance
+# Deficiency Balance After Repo or Foreclosure [2026] - Deficiencybalance
 > Owe a deficiency balance after repossession or foreclosure? Learn your options: negotiate, dispute, or discharge in bankruptcy. 2026 g...
 
 ## About
 deficiencybalance.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Deficiency Balance Laws by State -- State-Specific Rules [2026] -- Deficiencybalance: https://deficiencybalance.com/deficiency-balance-laws-by-state.html
-- State Anti-Deficiency Laws -- Where Lenders Cannot Pursue You -- Deficiencybalance: https://deficiencybalance.com/anti-deficiency-laws.html
-- Auto Repossession Deficiency -- What You Owe After Repo -- Deficiencybalance: https://deficiencybalance.com/auto-repo-deficiency.html
-- Bankruptcy and Deficiency Balances -- Complete Elimination -- Deficiencybalance: https://deficiencybalance.com/bankruptcy-and-deficiency.html
-- Deficiency Balance Credit Impact -- How It Affects Your Score -- Deficiencybalance: https://deficiencybalance.com/credit-impact-deficiency.html
-- Deficiency Judgment -- From Lawsuit to Wage Garnishment -- Deficiencybalance: https://deficiencybalance.com/deficiency-judgment.html
-- Foreclosure Deficiency Balance -- Can They Come After You? -- Deficiencybalance: https://deficiencybalance.com/foreclosure-deficiency.html
-- Deficiency Balance After Repo or Foreclosure [2026] -- Deficiencybalance: https://deficiencybalance.com/
-- Negotiating a Deficiency Balance -- Settlement Strategies -- Deficiencybalance: https://deficiencybalance.com/negotiating-deficiency.html
-- Right to Cure Before Deficiency -- Preventing the Balance -- Deficiencybalance: https://deficiencybalance.com/right-to-cure-deficiency.html
-- Statute of Limitations on Deficiency Balances -- How Long Creditors Have to Sue -- Deficiencybalance: https://deficiencybalance.com/statute-of-limitations-deficiency.html
+- State Anti-Deficiency Laws - Where Lenders Cannot Pursue You - Deficiencybalance: https://deficiencybalance.com/anti-deficiency-laws.html
+- Auto Repossession Deficiency - What You Owe After Repo - Deficiencybalance: https://deficiencybalance.com/auto-repo-deficiency.html
+- Bankruptcy and Deficiency Balances - Complete Elimination - Deficiencybalance: https://deficiencybalance.com/bankruptcy-and-deficiency.html
+- Deficiency Balance Credit Impact - How It Affects Your Score - Deficiencybalance: https://deficiencybalance.com/credit-impact-deficiency.html
+- Deficiency Balance Laws by State - State-Specific Rules [2026] - Deficiencybalance: https://deficiencybalance.com/deficiency-balance-laws-by-state.html
+- Deficiency Judgment - From Lawsuit to Wage Garnishment - Deficiencybalance: https://deficiencybalance.com/deficiency-judgment.html
+- Foreclosure Deficiency Balance - Can They Come After You? - Deficiencybalance: https://deficiencybalance.com/foreclosure-deficiency.html
+- Deficiency Balance After Repo or Foreclosure [2026] - Deficiencybalance: https://deficiencybalance.com/
+- Negotiating a Deficiency Balance - Settlement Strategies - Deficiencybalance: https://deficiencybalance.com/negotiating-deficiency.html
+- Right to Cure Before Deficiency - Preventing the Balance - Deficiencybalance: https://deficiencybalance.com/right-to-cure-deficiency.html
+- Statute of Limitations on Deficiency Balances - How Long Creditors Have to Sue - Deficiencybalance: https://deficiencybalance.com/statute-of-limitations-deficiency.html
+- Privacy Policy: https://deficiencybalance.com/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
