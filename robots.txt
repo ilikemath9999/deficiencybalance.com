@@ -2,4 +2,5 @@ User-agent: *
 Allow: /
 
 
-Sitemap: https://deficiencybalance.com/sitemap.xml
+
+Sitemap: https://deficiencybalance.com/sitemapindex.xml
